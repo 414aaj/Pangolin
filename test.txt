@@ -1,1 +1,0 @@
-del/ C:\phpstudy_pro\Extensions\MySQL5.7.26\lib\plugin\1.txt
