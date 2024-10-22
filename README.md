@@ -11,7 +11,7 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/dbc461e9-4068-4858-8619-9306362ff600"  width="30" height="30">
+<img src="https://github.com/user-attachments/assets/dbc461e9-4068-4858-8619-9306362ff600"  width="50" height="50">
 
 ## Host Alive Detection
 Host alive detection uses the Ping command for probing (to avoid requiring root authorization).
