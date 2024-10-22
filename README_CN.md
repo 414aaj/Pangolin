@@ -7,9 +7,10 @@
 
 
 
+
 ![穿](https://github.com/user-attachments/assets/29a4468c-4b1c-4641-b5a3-af855187b607)
 
-
+目前仅编译安卓端
 <img src="https://github.com/user-attachments/assets/dbc461e9-4068-4858-8619-9306362ff600"  width="50" height="50">
 
 ## 主机存活探测
