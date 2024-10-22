@@ -9,6 +9,7 @@
 
 ![P](https://github.com/user-attachments/assets/ea49dcf8-ec93-4c4a-b293-304e5b9d6dfb)
 
+Currently compiles only for Android.
 
 
 <img src="https://github.com/user-attachments/assets/dbc461e9-4068-4858-8619-9306362ff600"  width="50" height="50">
