@@ -9,7 +9,7 @@
 
 ![P](https://github.com/user-attachments/assets/ea49dcf8-ec93-4c4a-b293-304e5b9d6dfb)
 
-Currently compiles only for Android.
+Currently, the program is only compiled for Android. It is secure with no backdoors, and there's no additional protection or obfuscation, allowing for independent verification. Open source release will come later, as deployment is not a priority at the moment.
 
 
 <img src="https://github.com/user-attachments/assets/dbc461e9-4068-4858-8619-9306362ff600"  width="50" height="50">
