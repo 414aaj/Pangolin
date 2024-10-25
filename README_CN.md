@@ -30,7 +30,9 @@
 主机存活探测使用Ping命令进行探测(避免设备需要root授权)
 ## 端口扫描
 支持Socks5代理、指纹识别、漏洞扫描
-| <img src="https://github.com/user-attachments/assets/82ee564b-1951-4f7d-a9f7-afe2c47c3cfb" width="400"/> | <img src="https://github.com/user-attachments/assets/836f3e6e-84f2-49b4-b236-255278d62a6b" width="400"/> | <img src="https://github.com/user-attachments/assets/6952835a-0f81-4436-ba01-14cd6bee222b" width="400"/> |
+
+
+| <img src="https://github.com/user-attachments/assets/2af32cee-3f20-4861-9c4f-ac4803a0689a" width="400"/> | <img src="https://github.com/user-attachments/assets/836f3e6e-84f2-49b4-b236-255278d62a6b" width="400"/> | <img src="https://github.com/user-attachments/assets/6952835a-0f81-4436-ba01-14cd6bee222b" width="400"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
 | <img src="https://github.com/user-attachments/assets/c549888c-1f37-4a9a-8216-4586eb51bc10" width="400"/> | <img src="https://github.com/user-attachments/assets/687ed407-5549-4a17-8afd-efe8c99ae471" width="400"/> | <img src="https://github.com/user-attachments/assets/063153c0-8152-4664-97ab-f6a20c10b198" width="400"/> |
 
