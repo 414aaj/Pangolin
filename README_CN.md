@@ -12,7 +12,17 @@
 ![穿](https://github.com/user-attachments/assets/8cece084-7683-4bbe-8749-d44b1ba31960)
 
 
-目前仅编译安卓端,绿色安全无后门,懒于部署,后续再开源,程序没有加壳可自行检验。
+该工具使用 Go 和 Fyne 开发,内置中英文两种语言,目前专注于基于近源内网渗透测试。目前仅编译安卓端(PC端、iOS后续看需适配编译),绿色安全无后门,程序未加壳可自行反编译检验。
+
+## 代理
+支持HTTP、Socks5全局、局部代理(暂不支持凭据设置)
+
+| <img src="https://github.com/user-attachments/assets/607721b0-d49d-4faf-98d9-a9571c192859" width="400"/> | <img src="https://github.com/user-attachments/assets/242d4a63-4240-4d24-bfba-2eb8a1efa681" width="400"/> | <img src="https://github.com/user-attachments/assets/60d8fecc-ecf5-4ab2-b18d-0f35a74fe33c" width="400"/> |
+|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
+| <img src="https://github.com/user-attachments/assets/4f3f0579-9e2c-47d6-9479-84d21449d8ef" width="400"/> | <img src="https://github.com/user-attachments/assets/52ad19e0-e995-4d92-b230-6a8ef44f4d2a" width="400"/> | <img src="https://github.com/user-attachments/assets/4b2f0184-2b3e-44fe-afea-fd98d203f341" width="400"/> |
+
+
+
 
 <img src="https://github.com/user-attachments/assets/dbc461e9-4068-4858-8619-9306362ff600"  width="50" height="50">
 
