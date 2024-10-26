@@ -36,6 +36,28 @@ Supports SOCKS5 proxy, fingerprint identification, and vulnerability scanning.
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
 | <img src="https://github.com/user-attachments/assets/a766717d-0ce9-41f9-9b5e-8cfe09878803" width="400"/> | <img src="https://github.com/user-attachments/assets/63e890af-ab13-4c14-8e35-ef8004d0ecf0" width="400"/> | <img src="https://github.com/user-attachments/assets/7e79fe72-7358-4557-850e-ce92207fc0c3" width="400"/> |
 
+<img src="https://github.com/user-attachments/assets/cbc12168-e52a-4daf-b435-9aa6c949a640"  width="50" height="50">
+
+## fofa
+Supports HTTP and SOCKS5 proxies
+
+Supports size and field configuration
+
+Supports multi-field content filtering within tables
+
+Right-click menu to initiate host port scanning
+
+
+| <img src="https://github.com/user-attachments/assets/856f82c8-e43d-4580-9a8e-00179cf67f99" width="400"/> | <img src="https://github.com/user-attachments/assets/dbdaaa12-ea81-4538-b3ea-337b0b7e81c0" width="400"/> | <img src="https://github.com/user-attachments/assets/271cbe38-71a4-40a5-8ca0-e56483fb7a7a" width="400"/> |
+|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
+| <img src="https://github.com/user-attachments/assets/b0789e1e-26c7-4fd1-afac-04deddc97f92" width="400"/> | <img src="https://github.com/user-attachments/assets/4ecf004c-879a-4ebe-8506-8df81048731f" width="400"/> | <img src="https://github.com/user-attachments/assets/b78eb583-ec58-49af-beb0-13003763519b" width="400"/> |
+| <img src="https://github.com/user-attachments/assets/11a80bf7-d77d-4b3d-a24e-fabe41788d75" width="400"/> | <img src="https://github.com/user-attachments/assets/0ec43a28-7e6b-425b-9796-2cbfcde3c663" width="400"/> | <img src="https://github.com/user-attachments/assets/6034ba50-5a27-4ced-b087-49ef3037f9dc" width="400"/> |
+
+
+
+
+
+
 
 
 
