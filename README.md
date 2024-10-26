@@ -18,7 +18,6 @@ The tool is developed using Go and Fyne, with built-in support for both Chinese 
 ## Proxy
 Supports HTTP and SOCKS5 global and local proxies (credential configuration not supported at the moment).
 
-
 | <img src="https://github.com/user-attachments/assets/c8a89c8a-ba71-419d-80bd-33e8fbf90a26" width="400"/> | <img src="https://github.com/user-attachments/assets/84adb5d4-dd4c-4750-8e85-2a0ad3be5019" width="400"/> | <img src="https://github.com/user-attachments/assets/0fdbd392-abf3-44d3-9aa3-8ff8f5c51815" width="400"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
 | <img src="https://github.com/user-attachments/assets/d2222229-261e-4b6c-a620-385582a88705" width="400"/> | <img src="https://github.com/user-attachments/assets/f7f28d61-8e0d-465e-849d-939da802383e" width="400"/> | <img src="https://github.com/user-attachments/assets/fb89fe33-2052-4f29-82f7-82164cbe71bf" width="400"/> |
@@ -27,13 +26,16 @@ Supports HTTP and SOCKS5 global and local proxies (credential configuration not 
 
 <img src="https://github.com/user-attachments/assets/dbc461e9-4068-4858-8619-9306362ff600"  width="50" height="50">
 
-
-| <img src="https://github.com/user-attachments/assets/b7f65286-bdce-4c63-9deb-e16b1b75a79d" width="200"/> | <img src="https://github.com/user-attachments/assets/f6c641ab-998a-48f1-aa56-5cb8e71ae3de" width="200"/> |
-|:-----------------------------------------------------:|:-----------------------------------------------------:|
-
-
 ## Host Alive Detection
-Host alive detection uses the Ping command for probing (to avoid requiring root authorization).
+Host Alive Detection uses Ping command for probing (avoiding the need for root privileges on the device).
 
 ## Port Scanning
-Supports SOCKS5 proxy.
+Supports SOCKS5 proxy, fingerprint identification, and vulnerability scanning.
+
+| <img src="https://github.com/user-attachments/assets/0bccad7d-fc30-40ff-bd3c-5d88886938a9" width="400"/> | <img src="https://github.com/user-attachments/assets/74a14533-ad40-4c9f-b6ae-07bfbf2a73c6" width="400"/> | <img src="https://github.com/user-attachments/assets/5ded135f-f690-404e-97ee-22f7136b2182" width="400"/> |
+|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
+| <img src="https://github.com/user-attachments/assets/a766717d-0ce9-41f9-9b5e-8cfe09878803" width="400"/> | <img src="https://github.com/user-attachments/assets/63e890af-ab13-4c14-8e35-ef8004d0ecf0" width="400"/> | <img src="https://github.com/user-attachments/assets/7e79fe72-7358-4557-850e-ce92207fc0c3" width="400"/> |
+
+
+
+
