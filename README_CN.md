@@ -72,4 +72,7 @@
 
 cmd命令执行、内存马写入【Godzilla[Fiter]、Behinder[Fiter]、AntSword[Fiter]】
 
+![shiro](https://github.com/user-attachments/assets/e4801d91-cb18-415b-b95a-97bfb721166a)
+
+
 
