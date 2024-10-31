@@ -34,8 +34,7 @@
 ## 端口扫描
 支持Socks5代理、指纹识别、漏洞扫描
 
-
-
+发送跳转【Shiro】
 
 | <img src="https://github.com/user-attachments/assets/2af32cee-3f20-4861-9c4f-ac4803a0689a" width="400"/> | <img src="https://github.com/user-attachments/assets/6d77baff-3a5b-4259-91b2-1b9c8963791a" width="400"/> | <img src="https://github.com/user-attachments/assets/47f27b07-97b9-4c9c-94dd-3463c3341c50" width="400"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
@@ -50,7 +49,7 @@
 
 支持表内多字段内容筛选
 
-右键菜单发送主机端口扫描
+发送跳转【主机端口扫描、Shiro】
 
 
 
@@ -60,5 +59,16 @@
 | <img src="https://github.com/user-attachments/assets/7d7d6547-08ce-441d-9b89-c48ecca25cf7" width="400"/> | <img src="https://github.com/user-attachments/assets/be1d568d-d254-4b56-a9aa-c5a642b67f70" width="400"/> | <img src="https://github.com/user-attachments/assets/1e2f767d-b439-4d01-a5e8-41054025fd6c" width="400"/> |
 | <img src="https://github.com/user-attachments/assets/db974120-cef3-4c27-821b-391f2b5b005b" width="400"/> | <img src="https://github.com/user-attachments/assets/4c02c9af-008b-49cb-a013-c7a71dd053ef" width="400"/> | <img src="https://github.com/user-attachments/assets/a41bfa0b-42c1-441c-8833-5347251d0e63" width="400"/> |
 
+
+<img src="https://github.com/user-attachments/assets/703de7e9-5249-4a75-871c-c7f9d155a8e9"  width="50" height="50">
+
+## Shiro
+支持HTTP、Socks5代理
+
+批量Shiro检查
+
+利用链【CommonsBeanutils1、OnlyCommonsBeanutils、CommonsCollectionsK1、CommonsCollections10、CommonsBeanutilsString】
+
+cmd命令执行、内存马写入【Godzilla[Fiter]、Behinder[Fiter]、AntSword[Fiter]】
 
 
