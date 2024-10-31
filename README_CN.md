@@ -33,9 +33,18 @@
 ## 主机存活探测
 主机存活探测使用Ping命令进行探测(避免设备需要root授权)
 ## 端口扫描
-支持Socks5代理、指纹识别、漏洞扫描
+  Socks5代理
 
-发送跳转【Shiro】
+        
+  指纹识别
+  
+    服务指纹【VCN、SSH、HTTP】
+
+    设备指纹【RM路由器、TP-LinK路由器、Apple AirTunes】
+
+    框架指纹【beegoServer、Shiro】
+
+  漏洞扫描【右键发送Shiro】
 
 | <img src="https://github.com/user-attachments/assets/2af32cee-3f20-4861-9c4f-ac4803a0689a" width="400"/> | <img src="https://github.com/user-attachments/assets/6d77baff-3a5b-4259-91b2-1b9c8963791a" width="400"/> | <img src="https://github.com/user-attachments/assets/47f27b07-97b9-4c9c-94dd-3463c3341c50" width="400"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
