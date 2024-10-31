@@ -60,7 +60,7 @@
 | <img src="https://github.com/user-attachments/assets/db974120-cef3-4c27-821b-391f2b5b005b" width="400"/> | <img src="https://github.com/user-attachments/assets/4c02c9af-008b-49cb-a013-c7a71dd053ef" width="400"/> | <img src="https://github.com/user-attachments/assets/a41bfa0b-42c1-441c-8833-5347251d0e63" width="400"/> |
 
 
-<img src="https://github.com/user-attachments/assets/703de7e9-5249-4a75-871c-c7f9d155a8e9"  width="50" height="50">
+<img src="https://github.com/user-attachments/assets/99889507-57b9-4dcd-869d-f70f0d70ad06"  width="50" height="50">
 
 ## Shiro
 支持HTTP、Socks5代理
