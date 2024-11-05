@@ -39,7 +39,7 @@
         
   指纹识别
   
-    服务指纹【VCN、SSH、HTTP】
+    服务指纹【VNC、SSH、HTTP】
 
     设备指纹【RM路由器、TP-LinK路由器、Apple AirTunes】
 
