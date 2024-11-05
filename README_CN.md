@@ -40,15 +40,22 @@
   
     服务指纹【VNC、SSH、HTTP】
 
-    设备指纹【RM路由器、TP-LinK路由器、Apple AirTunes】
+    设备指纹【RM路由器、腾达路由器、TP-LinK路由器、Apple AirTunes】
 
     框架指纹【beegoServer、Shiro】
+
+  漏洞识别【ms17-010】
 
   漏洞扫描【右键发送Shiro】
 
 | <img src="https://github.com/user-attachments/assets/2af32cee-3f20-4861-9c4f-ac4803a0689a" width="400"/> | <img src="https://github.com/user-attachments/assets/6d77baff-3a5b-4259-91b2-1b9c8963791a" width="400"/> | <img src="https://github.com/user-attachments/assets/47f27b07-97b9-4c9c-94dd-3463c3341c50" width="400"/> |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
 | <img src="https://github.com/user-attachments/assets/68f6d2be-c438-49de-99d7-c71bda19ec88" width="400"/> | <img src="https://github.com/user-attachments/assets/687ed407-5549-4a17-8afd-efe8c99ae471" width="400"/> | <img src="https://github.com/user-attachments/assets/90591650-c685-4393-a6d9-3c9ac230c677" width="400"/> |
+
+## 路由器
+路由器漏洞检测及利用
+
+
 
 <img src="https://github.com/user-attachments/assets/cbc12168-e52a-4daf-b435-9aa6c949a640"  width="50" height="50">
 
