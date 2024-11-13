@@ -10,8 +10,8 @@
 
 
 
+![QQ_1731506924187](https://github.com/user-attachments/assets/c209ad35-4248-408f-ac45-92206bc9ee96)
 
-![QQ_1730733527480](https://github.com/user-attachments/assets/6539a81c-bfcd-4497-8a67-0014ab6a359a)
 
 
 该工具使用 Go 和 Fyne 开发,内置中英文两种语言,目前专注于基于近源内网渗透测试，仅编译安卓端(PC端、iOS后续看需适配编译),绿色安全无后门,程序未加壳可自行反编译检验(懒于部署，后续如果用的人多再开源)。
